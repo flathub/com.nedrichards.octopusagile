@@ -1,7 +1,7 @@
 {
     "id" : "com.nedrichards.octopusagile",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "48",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "com.nedrichards.octopusagile",
     "finish-args" : [
@@ -65,7 +65,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/nedrichards/octopus-agile-energy.git",
-                    "commit" : "a5588cc3f965a85a194354a05775279d4adce5dd"
+                    "commit" : "ebf005b961306bacb317d81ba0a9928140aab96f"
                 }
             ]
         }
