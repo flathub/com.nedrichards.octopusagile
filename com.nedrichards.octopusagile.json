@@ -57,7 +57,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/nedrichards/octopus-agile-energy.git",
-                    "commit" : "5590d95e276a94b18f56af4e2b330a643b16ce87"
+                    "commit" : "7b9429d0400319a4a7ce42e741b0ba7f04ee395b"
                 }
             ]
         }
