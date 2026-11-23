@@ -24,13 +24,13 @@
             "sources": [
                 {
                     "type": "file",                    
-                    "url": "https://files.pythonhosted.org/packages/32/d1/a3652fe2c19134d0d15922177821d863cbd7e842d53a21bbe7e8e3a1b5ac/certifi-2026.10.23-py3-none-any.whl",
-                    "sha256": "e9b54de76e530bb6cf0ccd036787103acb58fd42ba930ea8bf948ddbaa2f61d1"
+                    "url": "https://files.pythonhosted.org/packages/6d/39/5eec3296860b94ac20bb8ed807725b88f6adfab3f343df592afd975f5f86/certifi-2026.11.20-py3-none-any.whl",
+                    "sha256": "7422df25243767b9877031a2248cb14d09ddac9beee846f4cef3d5c9191d488f",
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/cc/61/d01fc49b8dea277640b55a9e15960dbca9fdc8c9fde18e572d39c59f4019/charset_normalizer-3.5.1-py3-none-any.whl",
-                    "sha256": "6df0ec430f9a831772c23ca5a224cba36517a58a84bb32c32bb59a9fa67c47f6"
+                    "url": "https://files.pythonhosted.org/packages/d2/0d/07ab8eb9b7015274353eac2add4067bde1ab1b51912bbae505392905eedd/charset_normalizer-3.5.3-py3-none-any.whl",
+                    "sha256": "96e268b0cbda016ac519513294fcd17032264085b600abaac58b93049477e132",
                 },
                 {
                     "type": "file",
